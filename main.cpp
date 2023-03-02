@@ -11,5 +11,9 @@ int main() {
     {
         cout << i << endl;
     }
+
+    cout<<"kozakko\n";
+    cout<<"kozakko\n";
+    cout<<"kozakko\n";
     return 0;
 }
