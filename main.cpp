@@ -3,6 +3,10 @@
 using namespace std;
 
 int main() {
+    for(int i = 0; i < 5; i++)
+    {
+        cout << "Lezzgo!" << endl;
+    }
     cout << "Hello, World!" << endl;
     cout << "Maslo maslane" << endl;
     cout << "Porzeczki" << endl;
