@@ -19,5 +19,6 @@ int main() {
     cout<<"kozakko\n";
     cout<<"kozakko\n";
     cout<<"kozakko\n";
+    cout<<"z kurwami\n";
     return 0;
 }
