@@ -19,6 +19,5 @@ int main() {
     cout<<"kozakko\n";
     cout<<"kozakko\n";
     cout<<"kozakko\n";
-	cout << "Jazda" << endl;
     return 0;
 }
