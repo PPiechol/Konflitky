@@ -19,6 +19,7 @@ int main() {
     cout<<"kozakko\n";
     cout<<"kozakko\n";
     cout<<"kozakko\n";
-	cout << "Jazda" << endl;
+	  cout << "Jazda" << endl;
+    cout<<"z kurwami\n";
     return 0;
 }
