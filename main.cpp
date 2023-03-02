@@ -5,5 +5,7 @@ using namespace std;
 int main() {
     cout << "Hello, World!" << endl;
     cout << "Maslo maslane" << endl;
+    cout << "Porzeczki" << endl;
+    cout << 55 << endl;
     return 0;
 }
