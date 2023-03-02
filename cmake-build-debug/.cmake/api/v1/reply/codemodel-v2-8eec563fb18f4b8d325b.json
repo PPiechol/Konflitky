@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/Users/Piotr Piechol/CLionProjects/Konflikt/cmake-build-debug",
-		"source" : "E:/Users/Piotr Piechol/CLionProjects/Konflikt"
+		"build" : "E:/Users/Piotr Piechol/CLionProjects/Nowy folder/cmake-build-debug",
+		"source" : "E:/Users/Piotr Piechol/CLionProjects/Nowy folder"
 	},
 	"version" : 
 	{
