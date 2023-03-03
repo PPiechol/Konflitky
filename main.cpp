@@ -21,5 +21,9 @@ int main() {
     cout<<"kozakko\n";
 	  cout << "Jazda" << endl;
     cout<<"z kurwami\n";
+	for(int i = 0; i < 20; i++)
+	{
+		cout << 2*i << " ";
+	}
     return 0;
 }
